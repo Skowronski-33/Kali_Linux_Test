@@ -160,13 +160,6 @@ ftp 192.168.56.102
 ls -la
 ```
 
-### Evidências
-
-![Screenshot do ataque FTP](images/ftp-attack.png)
-*Captura de tela mostrando o sucesso do ataque*
-
----
-
 ## 🌐 Cenário 2: Ataque Web (DVWA)
 
 ### Objetivo
